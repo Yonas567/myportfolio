@@ -92,7 +92,7 @@ export default function Home() {
               <div className="space-y-4">
                 <div className="text-sm text-muted-foreground font-mono">EDUCATION</div>
                 <div className="space-y-2">
-                  <div className="text-foreground">Computer Engineering</div>
+                  <div className="text-foreground">Electrical and Computer Engineering</div>
                   <div className="text-muted-foreground">Addis Ababa Science & Technology University</div>
                   <div className="text-xs text-muted-foreground">2019 — 2023</div>
                 </div>
